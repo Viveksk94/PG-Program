@@ -1,3 +1,5 @@
+/*This is a calculator file*/
+
 import java.util.Scanner;
 
  public class calculator
